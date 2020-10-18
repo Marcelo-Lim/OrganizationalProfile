@@ -1,0 +1,11 @@
+C:\Users\Maureen Quizon\source\repos\OrganizationProfile\OrganizationProfile\bin\Debug\OrganizationProfile.exe.config
+C:\Users\Maureen Quizon\source\repos\OrganizationProfile\OrganizationProfile\bin\Debug\OrganizationProfile.exe
+C:\Users\Maureen Quizon\source\repos\OrganizationProfile\OrganizationProfile\bin\Debug\OrganizationProfile.pdb
+C:\Users\Maureen Quizon\source\repos\OrganizationProfile\OrganizationProfile\obj\Debug\OrganizationProfile.csprojAssemblyReference.cache
+C:\Users\Maureen Quizon\source\repos\OrganizationProfile\OrganizationProfile\obj\Debug\OrganizationProfile.frmRegistration.resources
+C:\Users\Maureen Quizon\source\repos\OrganizationProfile\OrganizationProfile\obj\Debug\OrganizationProfile.frmConfirmation.resources
+C:\Users\Maureen Quizon\source\repos\OrganizationProfile\OrganizationProfile\obj\Debug\OrganizationProfile.Properties.Resources.resources
+C:\Users\Maureen Quizon\source\repos\OrganizationProfile\OrganizationProfile\obj\Debug\OrganizationProfile.csproj.GenerateResource.cache
+C:\Users\Maureen Quizon\source\repos\OrganizationProfile\OrganizationProfile\obj\Debug\OrganizationProfile.csproj.CoreCompileInputs.cache
+C:\Users\Maureen Quizon\source\repos\OrganizationProfile\OrganizationProfile\obj\Debug\OrganizationProfile.exe
+C:\Users\Maureen Quizon\source\repos\OrganizationProfile\OrganizationProfile\obj\Debug\OrganizationProfile.pdb
